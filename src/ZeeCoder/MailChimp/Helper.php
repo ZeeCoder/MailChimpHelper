@@ -1,6 +1,6 @@
 <?php
 
-namespace ZeeCoder\MailChimp\Helper;
+namespace ZeeCoder\MailChimp;
 
 use Drewm\MailChimp;
 
