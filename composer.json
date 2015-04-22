@@ -1,0 +1,21 @@
+{
+    "name": "zeecoder/mailchimp-helper",
+    "description": "",
+    "type": "library",
+    "require": {
+        "php": ">=5.4",
+        "drewm/mailchimp-api": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZeeCoder\\": "src/ZeeCoder/"
+        }
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/ZeeCoder/mailchimp-helper",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
