@@ -1,6 +1,6 @@
 {
     "name": "zeecoder/mailchimp-helper",
-    "description": "",
+    "description": "A set of useful methods for interacting with MailChimp, using the drewm/mailchimp-api library.",
     "type": "library",
     "require": {
         "php": ">=5.4",
