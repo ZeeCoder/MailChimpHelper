@@ -1,4 +1,5 @@
-## MailChimp Helper
+# MailChimp Helper
+[![Project Status](http://stillmaintained.com/ZeeCoder/mailchimp-helper.png)](http://stillmaintained.com/ZeeCoder/mailchimp-helper)
 
 A simple Helper class containing useful methods I use regularly.
 
